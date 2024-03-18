@@ -1,0 +1,42 @@
+#form-container {
+  width: 95vw;
+  height: 73vh;
+}
+#circle {
+  height: 55px;
+  width: 55px;
+  top: -2%;
+}
+form {
+  margin-top: 5rem;
+}
+form div {
+  gap: 1rem;
+}
+form label {
+  font-size: 14px;
+}
+form input,
+form textarea {
+  width: 170px;
+}
+form input {
+  height: 30px;
+  padding-top: 10px;
+}
+button {
+  padding: 8px 18px;
+  margin-top: 40%;
+}
+span{
+  font-size: 12px;
+  bottom: -1px;
+  right: 10px;
+}
+#submit-error {
+  left: 16px;
+}
+span i {
+  margin-right: 2rem;
+  font-size: 0.8rem;
+}
